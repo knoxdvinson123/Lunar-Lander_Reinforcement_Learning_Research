@@ -4,7 +4,7 @@ This repository is a hands-on exploration of machine learning techniques, focusi
 
 ![image](https://github.com/knoxdvinson123/Lunar-Lander_Reinforcement_Learning_Research/assets/154300416/306f2646-b8d6-43c4-985d-39336665ef6a)
 
-About Reinforcement Learning (RL):
+About Reinforcement Learning (RL): 
 - Reinforcement Learning empowers agents to learn optimal behavior by interacting with an environment. In our Lunar Lander scenario, the agent faces the task of precision landing, employing vertical and side thrusters strategically. The learning process involves iterative training sessions, with positive rewards for successful landings and negative feedback for unnecessary thruster usage.
 
 Key Features:
